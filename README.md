@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmyliePm
 - 👀 I’m interested in learning, coding, video games and cooking
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me https://www.linkedin.com/in/emylie-periot-a06189117/
 
