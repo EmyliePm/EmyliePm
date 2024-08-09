@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmyliePm
 - 👀 I’m interested in learning, coding, video games and cooking
-- 🌱 I’m currently learning Python
+- 🌱 I finally have my own gitHub - after years of working with private companies. 
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me https://www.linkedin.com/in/emylie-periot-a06189117/
 
